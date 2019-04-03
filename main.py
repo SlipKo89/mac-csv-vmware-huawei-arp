@@ -29,7 +29,6 @@ while i < b:
 # Find eq in 2 lists
 i = 0
 hop = 0
-
 final_list=list()
 
 while i < a:
